@@ -22,15 +22,13 @@ Here are some ideas to get you started:
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="200" src="https://github-readme-stats.vercel.app/api?username=kurt-liao&count_private=true&hide=stars&show_icons=true&theme=highcontrast&hide_border=true&cache_seconds=3600" />
 </a>
+  
+<a href="https://github.com/kurt-liao/so-stats">
+  <img height="200" src="https://so-stats-kurt-liao.vercel.app/api?user_id=10389571&random=true&hide_border=true" />
+</a>
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurt-liao&layout=compact&show_icons=true&theme=highcontrast&hide_border=true&cache_seconds=3600&hide=python,cpp,c,yacc&langs_count=6"/>
 </a>
 
-</div>
-
-<div align="center">
-<a href="https://github.com/kurt-liao/so-stats">
-  <img height="200" src="https://so-stats-kurt-liao.vercel.app/api?user_id=10389571&random=true&hide_border=true" />
-</a>
 </div>
