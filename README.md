@@ -17,4 +17,4 @@ Here are some ideas to get you started:
 
 ![Kurt's GitHub Stats](https://github-readme-stats.vercel.app/api?username=kurt-liao&count_private=true&hide=stars&show_icons=true&theme=highcontrast&hide_border=true&cache_seconds=3600)
 
-![Kurts Stack Overflow Stats](https://so-stats-kurt-liao.vercel.app/api?user_id=10389571)
+[![Kurts Stack Overflow Stats](https://so-stats-kurt-liao.vercel.app/api?user_id=10389571)](https://github.com/kurt-liao/so-stats)
