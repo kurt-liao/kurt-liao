@@ -31,4 +31,7 @@ Here are some ideas to get you started:
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurt-liao&layout=compact&show_icons=true&theme=highcontrast&hide_border=true&cache_seconds=3600&hide=python,c,yacc,lex&langs_count=6"/>
 </a>
 
+### Recent Posts
+<a target="_blank" href="https://medium-post-seven.vercel.app/api?user_id=@s09001"><img src="https://medium-post-seven.vercel.app/api?user_id=@s09001"></a>
+
 </div>
