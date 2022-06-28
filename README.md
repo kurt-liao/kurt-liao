@@ -14,8 +14,8 @@
 
 ## Posts On Medium (Made by [medium-post](https://github.com/kurt-liao/medium-post))
 
-<a target="_blank" href="https://medium-post-seven.vercel.app/api?user_id=@s09001&is_url=true"><img src="https://medium-post-seven.vercel.app/api?user_id=@s09001"></a>
+<a target="_blank" href="https://medium-post-seven.vercel.app/api?user_id=@s09001&is_link=true"><img src="https://medium-post-seven.vercel.app/api?user_id=@s09001"></a>
 
-<a target="_blank" href="https://medium-post-seven.vercel.app/api?user_id=@s09001&index=1&is_url=true"><img src="https://medium-post-seven.vercel.app/api?user_id=@s09001&index=1"></a>
+<a target="_blank" href="https://medium-post-seven.vercel.app/api?user_id=@s09001&index=1&is_link=true"><img src="https://medium-post-seven.vercel.app/api?user_id=@s09001&index=1"></a>
 
-<a target="_blank" href="https://medium-post-seven.vercel.app/api?user_id=@s09001&index=2&is_url=true"><img src="https://medium-post-seven.vercel.app/api?user_id=@s09001&index=2"></a>
+<a target="_blank" href="https://medium-post-seven.vercel.app/api?user_id=@s09001&index=2&is_link=true"><img src="https://medium-post-seven.vercel.app/api?user_id=@s09001&index=2"></a>
