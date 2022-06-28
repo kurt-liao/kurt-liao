@@ -9,7 +9,7 @@
 | ------------- | ------------- |
   
 <a href="https://github.com/kurt-liao/so-stats">
-  <img height="200" src="https://so-stats-kurt-liao.vercel.app/api?username=10389571&random=true&hide_border=true" />
+  <img height="200" src="https://so-stats-kurt-liao.vercel.app/api?user_id=10389571&random=true&hide_border=true" />
 </a>
 
 ## Posts On Medium (Made by [medium-post](https://github.com/kurt-liao/medium-post))
