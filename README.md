@@ -9,7 +9,7 @@
 | ------------- | ------------- |
   
 <a href="https://github.com/kurt-liao/so-stats">
-  <img height="200" src="https://so-stats-kurt-liao.vercel.app/api?user_id=10389571&random=true&hide_border=true" />
+  <img height="200" src="https://so-stats-kurt-liao.vercel.app/api?user=10389571&random=true&hide_border=true" />
 </a>
 
 ## Recent Stories From Medium (Made by [medium-story](https://github.com/kurt-liao/medium-story))
