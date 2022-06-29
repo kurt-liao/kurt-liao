@@ -12,7 +12,7 @@
   <img height="200" src="https://so-stats-kurt-liao.vercel.app/api?user_id=10389571&random=true&hide_border=true" />
 </a>
 
-## Posts On Medium (Made by [medium-post](https://github.com/kurt-liao/medium-post))
+## Posts On Medium (Made by [medium-story](https://github.com/kurt-liao/medium-story))
 
 <a target="_blank" href="https://medium-story.vercel.app/api?username=@s09001&is_link=true"><img src="https://medium-story.vercel.app/api?username=@s09001"></a>
 
