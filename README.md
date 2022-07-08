@@ -15,6 +15,8 @@
 
 ## Recent stories from Medium (*Made by <ins>[medium-story](https://github.com/kurt-liao/medium-story)</ins>*)
 
-<a target="_blank" href="https://medium-story.vercel.app/api?username=@s09001&is_link=true"><img src="https://medium-story.vercel.app/api?username=@s09001"></a>
+<div>
+<a target="_blank" href="https://medium-story.vercel.app/api?username=@s09001&is_link=true"><img src="https://medium-story.vercel.app/api?username=@s09001" width="48%"></a>
 
-<a target="_blank" href="https://medium-story.vercel.app/api?username=@s09001&index=1&is_link=true"><img src="https://medium-story.vercel.app/api?username=@s09001&index=1"></a>
+<a target="_blank" href="https://medium-story.vercel.app/api?username=@s09001&index=1&is_link=true" width="48%"><img src="https://medium-story.vercel.app/api?username=@s09001&index=1" width="48%"></a>
+</div>
