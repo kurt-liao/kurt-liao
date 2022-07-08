@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=&size=26&duration=3500&color=B2F736&center=true&height=100&lines=Hi%2C+I'm+Kurt+%F0%9F%91%8B;Welcom+to+my+Github+%F0%9F%92%9B)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=50&duration=3500&color=B6F72E&center=true&width=650&height=100&lines=Hi%2C+I'm+Kurt+%F0%9F%91%8B;Welcome+to+my+Github+%F0%9F%92%9B)](https://git.io/typing-svg)
 
 [![Github](https://img.shields.io/github/followers/kurt-liao?label=Follow%20Me&style=social)](https://github.com/kurt-liao)
 [![](https://img.shields.io/badge/LINKEDIN-F5EFEF?style=flat&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/kurt-liao-07360b17b/)
