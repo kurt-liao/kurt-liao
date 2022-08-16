@@ -1,7 +1,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Pacifico&size=50&duration=3500&color=B6F72E&center=true&width=650&height=100&lines=Hi%2C+I'm+Kurt+%F0%9F%91%8B;Welcome+to+my+Github+%F0%9F%92%9B)](https://git.io/typing-svg)
 
 [![Github](https://img.shields.io/github/followers/kurt-liao?label=Follow%20Me&style=social)](https://github.com/kurt-liao)
-[![](https://img.shields.io/badge/LINKEDIN-F5EFEF?style=flat&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/kurt-liao-07360b17b/)
+[![](https://img.shields.io/badge/Kurt%20Liao-F5EFEF?style=flat&logo=linkedin&logoColor=0077B5)](https://www.linkedin.com/in/kurt-liao-07360b17b/)
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fkurt-liao&count_bg=%2322C0D7&title_bg=%232C4CD3&icon=influxdb.svg&icon_color=%2368D1AB&title=HITS&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ---
