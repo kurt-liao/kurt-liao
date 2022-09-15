@@ -19,11 +19,11 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kurt-liao&count_private=true&hide=stars&show_icons=true&theme=highcontrast&hide_border=true&cache_seconds=3600" alt="Kurt's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kurt-liao&layout=compact&show_icons=true&theme=highcontrast&hide_border=true&cache_seconds=3600&hide=python,yacc,lex&langs_count=6" /></a> |
 | ------------- | ------------- |
   
-<a href="https://github.com/kurt-liao/so-stats">
+<a href="https://github.com/kurt-project/so-stats">
   <img height="200" src="https://so-stats-kurt-liao.vercel.app/api?user=10389571&random=true&hide=border" />
 </a>
 
-## Recent articles from Medium (*Made by <ins>[medium-story](https://github.com/kurt-liao/medium-story)</ins>*)
+## Recent articles from Medium (*Made by <ins>[medium-story](https://github.com/kurt-project/medium-story)</ins>*)
 
 <a target="_blank" href="https://medium-story.vercel.app/api?username=@s09001&is_link=true"><img src="https://medium-story.vercel.app/api?username=@s09001"></a>
 
