@@ -20,7 +20,7 @@
 | ------------- | ------------- |
   
 <a href="https://github.com/kurt-project/so-stats">
-  <img height="200" src="https://so-stats-kurt-liao.vercel.app/api?user=10389571&theme=human-skin" />
+  <img height="200" src="https://so-stats-kurt-liao.vercel.app/api?user=10389571&theme=malt" />
 </a>
 
 ## Recent articles from Medium (*Made by <ins>[medium-story](https://github.com/kurt-project/medium-story)</ins>*)
