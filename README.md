@@ -7,7 +7,7 @@
 
 <div align="center">
 
-[![Blog](https://img.shields.io/badge/My%20Blog-5ACF5F?style=for-the-badge&logo=hugo&logoColor=white)](https://blog.kurtstories.com/)
+[![Blog](https://img.shields.io/badge/Blog-5ACF5F?style=for-the-badge&logo=hugo&logoColor=white)](https://blog.kurtstories.com/)
 [![Gmail](https://img.shields.io/badge/vermouth0226-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vermouth0226@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kurt-liao-07360b17b/)
 [![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=Stack%20Overflow&logoColor=white)](https://stackoverflow.com/users/10389571/kurt?tab=profile)
