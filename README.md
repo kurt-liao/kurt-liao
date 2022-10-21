@@ -7,6 +7,7 @@
 
 <div align="center">
 
+[![My Website](https://img.shields.io/badge/My%20Website-E1B786?style=for-the-badge&logo=nuxt.js&logoColor=25DB82)](https://me.kurtstories.com)
 [![Blog](https://img.shields.io/badge/Blog-5ACF5F?style=for-the-badge&logo=hugo&logoColor=white)](https://blog.kurtstories.com/)
 [![Gmail](https://img.shields.io/badge/vermouth0226-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vermouth0226@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kurt-liao-07360b17b/)
