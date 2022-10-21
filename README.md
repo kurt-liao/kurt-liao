@@ -25,6 +25,9 @@
 
 ## Recent articles from Medium (*Made by <ins>[medium-story](https://github.com/kurt-project/medium-story)</ins>*)
 
-<a target="_blank" href="https://medium-story.vercel.app/api?username=@s09001&is_link=true"><img src="https://medium-story.vercel.app/api?username=@s09001"></a>
+| <a target="_blank" href="https://medium-story.vercel.app/api?username=@s09001&is_link=true"><img src="https://medium-story.vercel.app/api?username=@s09001"></a> | <a target="_blank" href="https://medium-story.vercel.app/api?username=@s09001&index=1&is_link=true"><img src="https://medium-story.vercel.app/api?username=@s09001&index=1"></a> |
+| ------------- | ------------- |
 
-<a target="_blank" href="https://medium-story.vercel.app/api?username=@s09001&index=1&is_link=true"><img src="https://medium-story.vercel.app/api?username=@s09001&index=1"></a>
+
+
+
