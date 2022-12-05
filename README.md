@@ -24,8 +24,6 @@
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-contributor-stats-kurt-liao.vercel.app/api?username=kurt-liao&theme=tokyonight" alt="contributor stat"/></a> | <a href="https://github.com/kurt-project/so-stats"><img height="200" src="https://so-stats-kurt-liao.vercel.app/api?user=10389571&theme=azure" alt="stack overflow stat"/></a> |
 | ------------- | ------------- |
 
-[![@kurtliao's Holopin board](https://holopin.me/kurtliao)](https://holopin.io/@kurtliao)
-
 ## Recent articles from Medium (*Made by <ins>[medium-story](https://github.com/kurt-project/medium-story)</ins>*)
 
 | <a target="_blank" href="https://medium-story.vercel.app/api?username=@s09001&is_link=true"><img src="https://medium-story.vercel.app/api?username=@s09001"></a> | <a target="_blank" href="https://medium-story.vercel.app/api?username=@s09001&index=1&is_link=true"><img src="https://medium-story.vercel.app/api?username=@s09001&index=1"></a> |
