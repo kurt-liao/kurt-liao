@@ -18,10 +18,7 @@
 
 ---
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kurt-liao&count_private=true&show_icons=true&theme=solarized-light&hide_border=true&cache_seconds=3600&hide_title=true" alt="Kurt's github stats" /></a> | <a href="https://app.dooboo.io/kurt-liao"><img src="https://server.dooboo.io/github-stats-advanced/kurt-liao" width="450"/></a> |
-| ------------- | ------------- |
-
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-contributor-stats-kurt-liao.vercel.app/api?username=kurt-liao&theme=tokyonight" alt="contributor stat"/></a> | <a href="https://github.com/kurt-project/so-stats"><img height="200" src="https://so-stats-kurt-liao.vercel.app/api?user=10389571&theme=azure" alt="stack overflow stat"/></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=kurt-liao&count_private=true&show_icons=true&theme=solarized-light&hide_border=true&cache_seconds=3600&hide_title=true" alt="Kurt's github stats" /></a> | <a href="https://github.com/kurt-project/so-stats"><img height="200" src="https://so-stats-kurt-liao.vercel.app/api?user=10389571&theme=azure" alt="stack overflow stat"/></a> |
 | ------------- | ------------- |
 
 ## Recent articles from Medium (*Made by <ins>[medium-story](https://github.com/kurt-project/medium-story)</ins>*)
